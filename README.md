@@ -96,6 +96,10 @@
   #### Находится в zad4.php
 ## Домашнее задание 
 #### Находится в table.php
+https://github.com/Iulia1511/Php2/tree/main
+### Используемые источники:
+* http://php.net/manual/en/function.date.php, и
+
 
 
 

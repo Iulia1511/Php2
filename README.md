@@ -119,7 +119,9 @@ echo ($nume) ? $nume . ', ' . $mesaj : 'Anonymous, ' . $mesaj;
 
 * // Выводим сообщение
 * echo $message;
-
+  * Код нраходится в zad4.php
+## Домашнее задание 
+* В table.php
 
 
 
